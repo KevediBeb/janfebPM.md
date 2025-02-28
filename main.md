@@ -21,15 +21,15 @@ Enligt reglerna i Drop Dead så ska varje spelare slå 5 tärningar och addera s
 
 ## Positiva erfarenheter
 
-Här beskriver du vad som har gått bra i ditt projekt och analyserar varför. Hur ska du upprepa framgångarna.
-
-
+Det som har gått bra undet detta projekt var hur slutresultatet blev ett färdig och fullständig kopia av spelet Drop Dead och i framtiden kan de saker jag lärt mig om c++ hittills användas i framtida projekt. Jag har även fått en större idé om vad detta är för typ av språk.
 
 ## Negativa erfarenheter
 
-Här beskriver du det som du anser har gått mindre bra med ditt projekt och analyserar hur du kan undvika detta i framtida projekt.
+I framtiden kan jag se till i förhand att välja med denna kunskap ett passande program för mitt ändamål eftersom att jag i början av detta projekt inte hade en idé alls på vad jag ville uppnå. Detta tog iväg till som hade kunnat gå till att förbättre programmet på olika sätt till exempel att implementera säkerhetsfunktioner och förbättre på andra sätt.
 
 ## Sammanfattning
 
 Här redovisar du dina slutsatser, erfarenheter och lärdomar. Reflektera över din produkt och dess/dina utvecklingsmöjligheter.
 Vad kan vidareutvecklas och finns det utrymme att bygga vidare på projektet.
+
+Jag har under detta projekt kommit fram till hur viktigt det är att ha en tydlig vision innan jag bestämmer mig för att påbörja ett projekt. Själva resultatet hade även kunnat förbättras genom att som tidigare nämn, säkerhetsfunktioner och kanske öka antalet spelare som kan spela.
